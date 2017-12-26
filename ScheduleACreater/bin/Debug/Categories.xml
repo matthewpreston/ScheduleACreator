@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entries>
+  <Entry Title="FLOALMonthDate1" Type="String" Editable="False">
+    <Category Title="Months" Type="Single" Editable="False">
+	  <Option>January</Option>
+	  <Option>February</Option>
+	  <Option>March</Option>
+	  <Option>April</Option>
+	  <Option>May</Option>
+	  <Option>June</Option>
+	  <Option>July</Option>
+	  <Option>August</Option>
+	  <Option>September</Option>
+	  <Option>October</Option>
+	  <Option>November</Option>
+	  <Option>December</Option>
+	</Category>
+  </Entry>
+  <Entry Title="CLAUSES" Type="List" Editable="True">
+    <Category Title="Key Deposit" Type="Single" Editable="True">
+      <Option>Tenant will pay $150 as a key deposit</Option>
+      <Option>Tenant will pay $50 as a key deposit</Option>
+    </Category>
+    <Category Title="Pets" Type="Single" Editable="True">
+      <Option>Tenant is allowed pets</Option>
+      <Option>Tenant is not allowed pets</Option>
+    </Category>
+    <Category Title="Storage Room" Type="Single" Editable="True">
+      <Option>Tenant will pay $100 per month for a small storage room</Option>
+      <Option>Tenant will pay $150 per month for a medium storage room</Option>
+    </Category>
+    <Category Title="Utilities" Type="Multiple" Editable="True">
+      <Option>Tenant will pay for heat</Option>
+      <Option>Tenant will pay for hydro</Option>
+      <Option>Tenant will pay for water</Option>
+    </Category>
+  </Entry>
+  <Entry Title="POPMLSCondoApart" Type="String" Editable="False">
+    <Category Title="Options" Type="Single" Editable="True">
+      <Option>Apartment</Option>
+      <Option>Suite</Option>
+      <Option>Townhouse</Option>
+      <Option>Unit</Option>
+    </Category>
+  </Entry>
+</Entries>
